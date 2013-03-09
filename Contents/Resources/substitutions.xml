@@ -12,7 +12,7 @@
 		<match name="57 irving" expression="57 irving"/>
 		<match name="777_Film_Corp" expression="777"/>
 		<match name="aande" expression="aande"/>
-		<match name="Aardmann" expression="aardmann"/>
+		<match name="Aardman" expression="aardman" />
 		<match name="abandon" expression="abandon"/>
 		<match name="abc" expression="abc"/>
 		<match name="abc" expression="american broadcasting"/>
@@ -247,7 +247,7 @@
 		<match name="Global-TV" expression="Global TV"/>
 		<match name="Glue_Works_Entertainment" expression="glue works entertainment"/>
 		<match name="gofilms" expression="gofilms"/>
-		<match name="Samuel_Goldwyn" expression="samuel goldwyn"/>
+		<match name="Goldwyn" expression="^((?!metro).)*goldwyn" />
 		<match name="Gold_Circle_Films" expression="gold ?circle"/>
 		<match name="Gracie_Films" expression="gracie"/>
 		<match name="Gramercy_Pictures" expression="gramercy"/>
@@ -267,7 +267,7 @@
 		<match name="Hemus_Film" expression="hemus"/>
 		<match name="Heyday_Films" expression="heyday"/>
 		<match name="HGTV" expression="HGTV"/>
-		<match name="historychannel" expression="history channel"/>
+		<match name="historychannel" expression="history" />
 		<match name="historychannel" expression="historychannel"/>
 		<match name="Hollywood_Pictures" expression="hollywood pictures"/>
 		<match name="Hustler_Video" expression="hustler video"/>
